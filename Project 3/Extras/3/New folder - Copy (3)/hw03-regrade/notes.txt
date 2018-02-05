@@ -1,0 +1,26 @@
+download HW03-regrade.zip, open, extract to desktop
+
+open folder, you'll see "myvector" folder --- place a copy of your "myvector.h" file inside.
+
+Now open in VS by double-clicking on SLN file.
+
+When opened, view Solution Explorer.  you'll see 4 parts:  tests-part01, tests-part02, etc.  
+
+Part1: 
+  - right-click on tests-part01 project, "Build"
+  - expand
+  - double-click to open "grading_part01.cpp" in editor
+  - right-click on editor background, "Run Tests"
+  - 25 tests:  how many do you pass?
+  
+Part2:
+  - repeat above...
+  - 15 tests:  how many do you pass?
+  
+Part 3:
+  - repeat above...
+  - 6 tests:  how many do you pass?
+  
+Part 4:
+  - repeat above...
+  - 14 tests:  how many do you pass?
